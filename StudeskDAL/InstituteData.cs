@@ -18,6 +18,7 @@ namespace StudeskDAL
         {
 
         }
+        public Guid UserId { get; set; }
 
     }
 }
