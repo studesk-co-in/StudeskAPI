@@ -19,6 +19,8 @@ namespace StudeskDAL
 
         }
         public Guid UserId { get; set; }
+        public Guid InstituteId { get; set; }
+        public string InstituteName { get; set; }
 
     }
 }
