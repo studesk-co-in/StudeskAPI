@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace StudeskDAL
 {
-    public static class InstituteBL
+    public class InstituteBL
     {
-
+        public string GetCount()
+        {
+            return "";
+        }
     }
 }
